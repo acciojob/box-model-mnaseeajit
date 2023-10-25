@@ -1,1 +1,35 @@
 /*  your css code here. If applicable */
+#box{
+	display : flex;
+/* 	align-items : centre; */
+	justify-content : center;
+	align-items : center;
+	height : 100px;
+	width : auto;
+	margin : 1px;
+	padding : 10px;
+	border : 2px solid black;
+	border-radius : 20px;
+	background-color : #d3d3d3;
+}
+#green{
+	background-color : green;
+	height : 100px;
+	width : 100px;
+	border-radius : 50%;
+	margin : 10px;
+}
+#yellow{
+	background-color : yellow;
+	height : 100px;
+	width : 100px;
+	border-radius : 50%;
+	margin : 10px;
+}
+#red{
+	background-color : red;
+	height : 100px;
+	width : 100px;
+	border-radius : 50%;
+	margin : 10px;
+}
