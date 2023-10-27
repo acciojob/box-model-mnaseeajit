@@ -4,12 +4,12 @@
 /* 	align-items : centre; */
 	justify-content : center;
 	align-items : center;
-	height : 100px;
-	width : auto;
+	height : 150px;
+	width : 450px;
 	margin : 1px;
 	padding : 10px;
-	border : 2px solid black;
-	border-radius : 20px;
+	border : 5px solid black;
+	border-radius : 40px;
 	background-color : #d3d3d3;
 }
 #green{
@@ -17,7 +17,7 @@
 	height : 100px;
 	width : 100px;
 	border-radius : 50%;
-	margin : 10px;
+	margin : 0px;
 }
 #yellow{
 	background-color : yellow;
@@ -31,5 +31,5 @@
 	height : 100px;
 	width : 100px;
 	border-radius : 50%;
-	margin : 10px;
+	margin : 0px;
 }
