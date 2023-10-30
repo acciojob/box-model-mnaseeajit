@@ -12,14 +12,14 @@
 	border-radius : 40px;
 	background-color : #d3d3d3;
 }
-#green{
+.green{
 	background-color : green;
 	height : 100px;
 	width : 100px;
 	border-radius : 50%;
 	margin : 0px;
 }
-#yellow{
+.yellow{
 	background-color : yellow;
 	height : 100px;
 	width : 100px;
